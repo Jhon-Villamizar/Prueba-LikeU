@@ -22,4 +22,8 @@ npm run build
 ```
 y quedaran en la carpeta dist
 
-
+## URL
+La aplicacion fue desplegada en firebase y con la siguiente ruta
+```url
+https://api-rickymorty.firebaseapp.com/
+```
