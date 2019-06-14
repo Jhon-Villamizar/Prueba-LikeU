@@ -1,10 +1,51 @@
 body {
-    background: #fff;
-    color: #000;
-    .foto{
-        border: 5px solid black;
-        padding: 5px;
-        margin: 5px;
-        display: block;
+    a.card{
+        border: none;
+        a{
+            color: #000;
+            text-decoration: none;
+        }
+    }
+    .card{
+        .card-body{
+            padding: 13px;
+            h5{
+                margin-top: 10px;
+                margin-bottom: 23px;
+            }
+        }
+        .card-footer{
+            a{
+                color: #000;
+                margin-left: 6px;
+                margin-right: 6px;
+                text-align: center;
+                text-decoration: none;
+            }
+            text-align: center;
+            p{
+                text-align: center
+            }
+            .text-center{
+                margin-left: 20px;
+                margin-top: 30px;
+            }
+        }
+    }
+    .info-episode{
+        width: 100%;
+    }
+    nav{
+        .logo{
+            background-image: url(https://help.redbubble.com/hc/article_attachments/360002309526/Rick_and_Morty_-_logo__English_.png);
+            background-position: left;
+            background-size: contain;
+            background-repeat: no-repeat;
+            width: 93px;
+            height: 30px;
+        }
+        img{
+            width: 20%;
+        }
     }
 }
