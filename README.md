@@ -4,11 +4,12 @@ Consumo de api Rick y Morty con HTML, SASS, JavaScript y Webpack
 
 ## Instalacion
 
-Es necesario antes de cualquier accion corre el comando
+Es necesario antes de cualquier accion correr el comando
 
 ```bash
 npm install
 ```
+para instalar los paquetes de node necesarios para el proyecto
 
 ## Servidor de desarrollo
 para correr el servidor de desarrollo se debe correr el comando
